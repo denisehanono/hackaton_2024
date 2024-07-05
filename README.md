@@ -6,6 +6,7 @@ En este hackathon, vamos a construir una aplicación web dinámica y visualmente
 
 Las tecnologías que utilizaremos son: HTML, CSS, JavaScript, Git, GitHub, JSON, Chart.js, Node.js, Express.js y Django
 
+Github Denise: https://denisehanono.github.io/hackaton_2024/ 
 Github del proyecto: https://github.com/HidenLacan/Hackatoners
 
 <!--
