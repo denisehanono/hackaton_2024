@@ -14,7 +14,6 @@ function renderChart(rfmData) {
     const frequencyData = rfmData.map(customer => customer.frequency);
     const monetaryData = rfmData.map(customer => customer.monetary);
 
-    
     new Chart(ctx, {
         type: 'bar',
         data: {
@@ -52,4 +51,3 @@ function renderChart(rfmData) {
         }
     });
 }
-

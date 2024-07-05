@@ -8,7 +8,6 @@ Las tecnologías que utilizaremos son: HTML, CSS, JavaScript, Git, GitHub, JSON,
 
 Github del proyecto: https://github.com/HidenLacan/Hackatoners
 
-
 <!--
 # Hackaton Retail Challenge
 ¡Bienvenidos al Hackathon! En este evento, vamos a construir una aplicación web dinámica y visualmente atractiva para analizar la segmentación de clientes. Este tutorial te guiará paso a paso para crear una base sólida para tu proyecto. ¡Manos a la obra!
